@@ -1,6 +1,6 @@
 {
   "name": "eventemitter3",
-  "main": "index.js",
+  "main": "dist/eventemitter3.nomodule.js",
   "version": "0.1.6",
   "homepage": "https://github.com/primus/eventemitter3",
   "authors": [
