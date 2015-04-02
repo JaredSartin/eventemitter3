@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/primus/EventEmitter3.git"
+    "url": "git://github.com/JaredSartin/EventEmitter3.git"
   },
   "keywords": [
     "EventEmitter",
