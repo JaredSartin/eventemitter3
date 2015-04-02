@@ -230,7 +230,7 @@ EventEmitter.prototype.setMaxListeners = function setMaxListeners() {
 EventEmitter.EventEmitter = EventEmitter;
 EventEmitter.EventEmitter2 = EventEmitter;
 EventEmitter.EventEmitter3 = EventEmitter;
-EventEmitter3 = EventEmitter;
+// EventEmitter3 = EventEmitter;
 
 //
 // Expose the module.
